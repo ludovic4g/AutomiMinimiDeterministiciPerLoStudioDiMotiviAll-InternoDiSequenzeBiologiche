@@ -1,1 +1,1 @@
-Progetto svolto per il lavoro di tesi che aveva l'obiettivo di implementare i concetti legat al paper del bioinformatico Marschal "Construction of minimal deterministic finite automata from biological motifs", con aggiiunta dell'adattamento del suo NFA semplice applicato agli epsilon-NFA.
+Progetto svolto per il lavoro di tesi con l'obiettivo di implementare i concetti legati al paper del bioinformatico Marschal "Construction of minimal deterministic finite automata from biological motifs", con aggiunta dell'adattamento del suo NFA semplice applicato agli epsilon-NFA.
